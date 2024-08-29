@@ -18,3 +18,4 @@ Esse arquivo tem a inteção de documentar e oficializar a padronização dos co
 1. **migrations**: arquivos de migrações do backend
 1. **refactor**: alterações que não visam alterações de funcionalidade, mas sim uma melhor otimização e/ou performance do código
 1. **deps**: adição ou remoção das dependências - normalemte serão comitados arquivos como **package.json** e **requirements.txt**
+2. 1. **dev**: configurações para o desenvolvimento - arquivos para devcontainers, debbugers, etc
